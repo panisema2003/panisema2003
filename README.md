@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hello there 👋
+ :goat: My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.
+<br>
+:octocat: This is my first time using GitHub. 
+<br>
+:guardsman: I'm currently a monitor, at Uniandes, of the course "Introduction to the programming world" wich it's dictated to first year engineering students, where they learn :snake: python.
+<br>
+:tennis: I also enjoy playing tennis and a little bit of chess. 
+<br>
+:wrench: I'm looking to help and learn along my GitHub journey, so don't doubt in contacting me :)
 <!--
 **panisema2003/panisema2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
