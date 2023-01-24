@@ -2,11 +2,8 @@
  :goat: My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.
 <br>
 :octocat: This is my first time using GitHub. 
-<br>
 :guardsman: :snake: 
-<br>
 :tennis:
-<br>
 :wrench:
 <!--
 **panisema2003/panisema2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
