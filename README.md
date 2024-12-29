@@ -1,10 +1,7 @@
 ### Hello there 👋
- :goat: My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.
+:goat:My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.
 <br>
-:octocat:
-:guardsman: :snake: 
-:tennis:
-:wrench:
+:octocat::guardsman::snake::tennis::wrench:
 <!--
 **panisema2003/panisema2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
