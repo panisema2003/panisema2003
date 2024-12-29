@@ -1,5 +1,5 @@
 ### Hello there 👋
-:goat:My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.
+My name is Nicolás, and I'm currently an Industrial and Systems engineer student at Universidad De los Andes, Colombia.:goat:
 <br>
 :octocat::guardsman::snake::tennis::wrench:
 <!--
